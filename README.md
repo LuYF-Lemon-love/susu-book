@@ -11,3 +11,5 @@
 - C++ Primer PDF 下载链接：https://pan.baidu.com/s/1c7vpIogA3JKUnzu2briL9Q?pwd=dhws 提取码：dhws .
 
 - TCP-IP网络编程 下载链接：https://pan.baidu.com/s/1c-usBDoOlq4LDfADT1SNkQ?pwd=7gkb 提取码：7gkb .
+
+- 剑指Offer-第2版 链接：https://pan.baidu.com/s/1de5TvpCwI5I3XuNfOOiGJw?pwd=6rmw 提取码：6rmw .
